@@ -6,7 +6,7 @@ export function toMarkdown(result: AuditResult): string {
   const ts = new Date().toISOString().slice(0, 10);
 
   lines.push(`# i18n Audit Report`);
-  lines.push(`> Generated ${ts} by [i18n-audit](https://github.com/AvighnaBasak/il8n-audit-skill)`);
+  lines.push(`> Generated ${ts} by [i18n-audit](https://github.com/AvighnaBasak/i18n-audit-skill)`);
   lines.push('');
 
   if (result.framework) {

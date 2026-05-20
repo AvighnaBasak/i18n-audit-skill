@@ -7,8 +7,8 @@ A Claude skill that audits the internationalization health of your codebase. Poi
 ### 1. Clone and build
 
 ```bash
-git clone https://github.com/AvighnaBasak/il8n-audit-skill
-cd il8n-audit-skill
+git clone https://github.com/AvighnaBasak/i18n-audit-skill
+cd i18n-audit-skill
 npm install && npm run build
 ```
 
