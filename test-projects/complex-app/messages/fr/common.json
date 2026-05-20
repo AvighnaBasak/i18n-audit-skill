@@ -1,0 +1,31 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "dashboard": "Tableau de bord",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "billing": "Facturation",
+    "logout": "Se déconnecter"
+  },
+  "actions": {
+    "save": "Enregistrer les modifications",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "confirm": "Confirmer",
+    "back": "Retour"
+  },
+  "status": {
+    "loading": "Chargement…",
+    "error": "Une erreur s'est produite. Veuillez réessayer.",
+    "success": "Modifications enregistrées avec succès",
+    "empty": "Aucun résultat trouvé"
+  },
+  "pagination": {
+    "previous": "Précédent",
+    "next": "Suivant",
+    "pageOf": "Page {current} sur {total}",
+    "itemsPerPage": "Éléments par page",
+    "legacyPageControl": "Obsolète - contrôle de pagination"
+  }
+}

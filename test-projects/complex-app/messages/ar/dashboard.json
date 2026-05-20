@@ -1,0 +1,30 @@
+{
+  "overview": {
+    "title": "لوحة التحكم",
+    "greeting": "مرحبًا {name}!",
+    "lastSeen": "آخر نشاط منذ {time}",
+    "totalUsers": "مستخدمون",
+    "totalRevenue": "إجمالي الإيرادات",
+    "activeProjects": "المشاريع النشطة",
+    "completedTasks": "المهام المكتملة هذا الأسبوع"
+  },
+  "widgets": {
+    "recentActivity": "النشاط الأخير",
+    "noActivity": "لا يوجد نشاط حديث",
+    "viewAll": "عرض الكل",
+    "topPerformers": "أفضل المؤدين",
+    "quickActions": "الإجراءات السريعة"
+  },
+  "chart": {
+    "title": "الإيرادات عبر الزمن",
+    "monthly": "شهري",
+    "weekly": "أسبوعي",
+    "daily": "يومي",
+    "noData": "لا توجد بيانات متاحة لهذه الفترة"
+  },
+  "announcements": {
+    "new": "جديد",
+    "dismiss": "إغلاق",
+    "seeAll": "عرض جميع الإعلانات"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Settings",
+  "tabs": {
+    "general": "General",
+    "security": "Security",
+    "notifications": "Notifications",
+    "billing": "Billing & Plans",
+    "team": "Team members"
+  },
+  "general": {
+    "language": "Display language",
+    "timezone": "Timezone",
+    "theme": "Color theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System default"
+  },
+  "notifications": {
+    "email": "Email notifications",
+    "push": "Push notifications",
+    "marketing": "Product updates and announcements",
+    "security": "Security alerts"
+  },
+  "billing": {
+    "currentPlan": "Current plan",
+    "upgrade": "Upgrade plan",
+    "cancelPlan": "Cancel subscription",
+    "invoices": "Invoice history",
+    "paymentMethod": "Payment method"
+  },
+  "dangerZone": {
+    "title": "Danger zone",
+    "deleteAccount": "Delete account",
+    "deleteWarning": "This action cannot be undone. All your data will be permanently deleted."
+  }
+}

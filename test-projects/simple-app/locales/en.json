@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "My Todo App",
+    "subtitle": "Stay organized"
+  },
+  "auth": {
+    "login": "Log in",
+    "logout": "Log out",
+    "forgotPassword": "Forgot your password?",
+    "register": "Create account",
+    "email": "Email address",
+    "password": "Password"
+  },
+  "todo": {
+    "add": "Add task",
+    "empty": "No tasks yet. Add one above!",
+    "itemCount": "{count, plural, one {# task} other {# tasks}}",
+    "delete": "Delete task",
+    "complete": "Mark complete"
+  },
+  "errors": {
+    "networkError": "Connection failed. Please try again.",
+    "timeout": "Request timed out.",
+    "notFound": "Page not found"
+  },
+  "legacy": {
+    "oldFeature": "This feature has been removed",
+    "anotherOld": "Legacy content"
+  }
+}

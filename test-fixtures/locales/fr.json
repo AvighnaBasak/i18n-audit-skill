@@ -1,0 +1,32 @@
+{
+  "auth": {
+    "login": "Se connecter",
+    "logout": "Se déconnecter",
+    "register": "Créer un compte",
+    "error": {
+      "invalidCredentials": "E-mail ou mot de passe invalide"
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "dashboard": "Tableau de bord",
+    "settings": "Paramètres",
+    "profile": "Profil"
+  },
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "loading": "Chargement…",
+    "error": "Une erreur s'est produite",
+    "success": "Terminé !",
+    "welcome": "Bienvenue, {name} !",
+    "itemCount": "{count, plural, one {# élément} other {# éléments}}",
+    "orphanedKey": "Cette clé n'est plus utilisée"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "subtitle": "Voici ce qui se passe"
+  }
+}

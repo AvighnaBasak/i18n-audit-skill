@@ -1,0 +1,36 @@
+{
+  "title": "Einstellungen",
+  "tabs": {
+    "general": "Allgemein",
+    "security": "Sicherheit",
+    "notifications": "Benachrichtigungen",
+    "billing": "Abrechnung & Pläne",
+    "team": "Teammitglieder"
+  },
+  "general": {
+    "language": "Anzeigesprache",
+    "timezone": "Zeitzone",
+    "theme": "Farbthema",
+    "themeLight": "Hell",
+    "themeDark": "Dunkel",
+    "themeSystem": "Systemstandard"
+  },
+  "notifications": {
+    "email": "E-Mail-Benachrichtigungen",
+    "push": "Push-Benachrichtigungen",
+    "marketing": "Produkt-Updates und Ankündigungen",
+    "security": "Sicherheitswarnungen"
+  },
+  "billing": {
+    "currentPlan": "Aktueller Plan",
+    "upgrade": "Plan upgraden",
+    "cancelPlan": "Abonnement kündigen",
+    "invoices": "Rechnungsverlauf",
+    "paymentMethod": "Zahlungsmethode"
+  },
+  "dangerZone": {
+    "title": "Gefahrenzone",
+    "deleteAccount": "Konto löschen",
+    "deleteWarning": "Diese Aktion kann nicht rückgängig gemacht werden. Alle deine Daten werden dauerhaft gelöscht."
+  }
+}

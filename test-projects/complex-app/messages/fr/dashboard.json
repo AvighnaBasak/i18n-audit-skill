@@ -1,0 +1,30 @@
+{
+  "overview": {
+    "title": "Tableau de bord",
+    "greeting": "Bonjour {name} !",
+    "lastSeen": "Dernière activité il y a {time}",
+    "totalUsers": "{count, plural, one {# utilisateur} other {# utilisateurs}}",
+    "totalRevenue": "Revenu total",
+    "activeProjects": "Projets actifs",
+    "completedTasks": "Completed tasks this week"
+  },
+  "widgets": {
+    "recentActivity": "Activité récente",
+    "noActivity": "Aucune activité récente",
+    "viewAll": "Tout voir",
+    "topPerformers": "Top performers",
+    "quickActions": "Actions rapides"
+  },
+  "chart": {
+    "title": "Revenus dans le temps",
+    "monthly": "Mensuel",
+    "weekly": "Hebdomadaire",
+    "daily": "Quotidien",
+    "noData": "Aucune donnée disponible pour cette période"
+  },
+  "announcements": {
+    "new": "Nouveau",
+    "dismiss": "Fermer",
+    "seeAll": "Voir toutes les annonces"
+  }
+}

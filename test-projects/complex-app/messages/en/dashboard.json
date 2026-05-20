@@ -1,0 +1,30 @@
+{
+  "overview": {
+    "title": "Dashboard",
+    "greeting": "Good {timeOfDay}, {name}!",
+    "lastSeen": "Last active {time} ago",
+    "totalUsers": "{count, plural, one {# user} other {# users}}",
+    "totalRevenue": "Total revenue",
+    "activeProjects": "Active projects",
+    "completedTasks": "Completed tasks this week"
+  },
+  "widgets": {
+    "recentActivity": "Recent activity",
+    "noActivity": "No recent activity",
+    "viewAll": "View all",
+    "topPerformers": "Top performers",
+    "quickActions": "Quick actions"
+  },
+  "chart": {
+    "title": "Revenue over time",
+    "monthly": "Monthly",
+    "weekly": "Weekly",
+    "daily": "Daily",
+    "noData": "No data available for this period"
+  },
+  "announcements": {
+    "new": "New",
+    "dismiss": "Dismiss",
+    "seeAll": "See all announcements"
+  }
+}

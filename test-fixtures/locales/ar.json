@@ -1,0 +1,34 @@
+{
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "register": "إنشاء حساب",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "error": {
+      "invalidCredentials": "Invalid email or password",
+      "accountLocked": "Your account has been locked"
+    }
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "dashboard": "لوحة التحكم",
+    "settings": "الإعدادات",
+    "profile": "الملف الشخصي"
+  },
+  "common": {
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "loading": "جارٍ التحميل…",
+    "error": "حدث خطأ ما",
+    "success": "تم!",
+    "welcome": "مرحبًا, {name}!",
+    "itemCount": "عناصر"
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "subtitle": "Dashboard",
+    "noData": "لا توجد بيانات متاحة"
+  }
+}

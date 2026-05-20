@@ -1,0 +1,30 @@
+{
+  "overview": {
+    "title": "Dashboard",
+    "greeting": "Guten {timeOfDay}, {name}!",
+    "lastSeen": "Zuletzt aktiv vor {time}",
+    "totalUsers": "{count, plural, one {# Benutzer} other {# Benutzer}}",
+    "totalRevenue": "Gesamtumsatz",
+    "activeProjects": "Aktive Projekte",
+    "completedTasks": "Diese Woche abgeschlossene Aufgaben"
+  },
+  "widgets": {
+    "recentActivity": "Letzte Aktivität",
+    "noActivity": "Keine kürzliche Aktivität",
+    "viewAll": "Alle anzeigen",
+    "topPerformers": "Top-Performer",
+    "quickActions": "Schnellaktionen"
+  },
+  "chart": {
+    "title": "Einnahmen im Zeitverlauf",
+    "monthly": "Monatlich",
+    "weekly": "Wöchentlich",
+    "daily": "Täglich",
+    "noData": "Keine Daten für diesen Zeitraum verfügbar"
+  },
+  "announcements": {
+    "new": "Neu",
+    "dismiss": "Schließen",
+    "seeAll": "Alle Ankündigungen anzeigen"
+  }
+}

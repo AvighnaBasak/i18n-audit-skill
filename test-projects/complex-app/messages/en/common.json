@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "profile": "Profile",
+    "billing": "Billing",
+    "logout": "Log out"
+  },
+  "actions": {
+    "save": "Save changes",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "back": "Go back"
+  },
+  "status": {
+    "loading": "Loading…",
+    "error": "Something went wrong. Please try again.",
+    "success": "Changes saved successfully",
+    "empty": "No results found"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "pageOf": "Page {current} of {total}",
+    "itemsPerPage": "Items per page"
+  }
+}

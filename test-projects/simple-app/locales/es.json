@@ -1,0 +1,29 @@
+{
+  "app": {
+    "title": "Mi App de Tareas",
+    "subtitle": "Mantente organizado"
+  },
+  "auth": {
+    "login": "Log in",
+    "logout": "Cerrar sesión",
+    "register": "Crear cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña"
+  },
+  "todo": {
+    "add": "Agregar tarea",
+    "empty": "Aún no hay tareas. ¡Agrega una arriba!",
+    "itemCount": "{count, plural, one {# tarea} other {# tareas}}",
+    "delete": "Eliminar tarea",
+    "complete": "Marcar como completada"
+  },
+  "errors": {
+    "networkError": "Connection failed. Please try again.",
+    "notFound": "Página no encontrada"
+  },
+  "legacy": {
+    "oldFeature": "Esta función ha sido eliminada",
+    "anotherOld": "Contenido heredado",
+    "orphanedSection": "Esta sección no existe"
+  }
+}

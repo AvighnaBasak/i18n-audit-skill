@@ -1,0 +1,30 @@
+{
+  "overview": {
+    "title": "ダッシュボード",
+    "greeting": "こんにちは、{name}さん！",
+    "lastSeen": "{time}前に最後に活動",
+    "totalUsers": "{count}人のユーザー",
+    "totalRevenue": "総収益",
+    "activeProjects": "アクティブなプロジェクト",
+    "completedTasks": "今週完了したタスク"
+  },
+  "widgets": {
+    "recentActivity": "最近のアクティビティ",
+    "noActivity": "最近のアクティビティはありません",
+    "viewAll": "すべて見る",
+    "topPerformers": "トップパフォーマー",
+    "quickActions": "クイックアクション"
+  },
+  "chart": {
+    "title": "収益推移",
+    "monthly": "月次",
+    "weekly": "週次",
+    "daily": "日次",
+    "noData": "この期間のデータはありません"
+  },
+  "announcements": {
+    "new": "新着",
+    "dismiss": "閉じる",
+    "seeAll": "すべてのお知らせを見る"
+  }
+}

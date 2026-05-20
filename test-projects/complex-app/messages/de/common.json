@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "dashboard": "Dashboard",
+    "settings": "Einstellungen",
+    "profile": "Profil",
+    "billing": "Abrechnung",
+    "logout": "Abmelden"
+  },
+  "actions": {
+    "save": "Änderungen speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "confirm": "Bestätigen",
+    "back": "Zurück"
+  },
+  "status": {
+    "loading": "Wird geladen…",
+    "error": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+    "success": "Änderungen erfolgreich gespeichert",
+    "empty": "Keine Ergebnisse gefunden"
+  },
+  "pagination": {
+    "previous": "Zurück",
+    "next": "Weiter",
+    "pageOf": "Seite {current} von {total}",
+    "itemsPerPage": "Elemente pro Seite"
+  }
+}

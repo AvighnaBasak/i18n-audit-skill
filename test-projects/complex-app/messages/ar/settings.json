@@ -1,0 +1,36 @@
+{
+  "title": "الإعدادات",
+  "tabs": {
+    "general": "عام",
+    "security": "الأمان",
+    "notifications": "الإشعارات",
+    "billing": "الفواتير والخطط",
+    "team": "أعضاء الفريق"
+  },
+  "general": {
+    "language": "لغة العرض",
+    "timezone": "المنطقة الزمنية",
+    "theme": "نظام الألوان",
+    "themeLight": "فاتح",
+    "themeDark": "داكن",
+    "themeSystem": "افتراضي النظام"
+  },
+  "notifications": {
+    "email": "إشعارات البريد الإلكتروني",
+    "push": "إشعارات الدفع",
+    "marketing": "تحديثات المنتج والإعلانات",
+    "security": "تنبيهات الأمان"
+  },
+  "billing": {
+    "currentPlan": "الخطة الحالية",
+    "upgrade": "ترقية الخطة",
+    "cancelPlan": "إلغاء الاشتراك",
+    "invoices": "سجل الفواتير",
+    "paymentMethod": "طريقة الدفع"
+  },
+  "dangerZone": {
+    "title": "المنطقة الخطرة",
+    "deleteAccount": "حذف الحساب",
+    "deleteWarning": "لا يمكن التراجع عن هذا الإجراء. سيتم حذف جميع بياناتك نهائيًا."
+  }
+}

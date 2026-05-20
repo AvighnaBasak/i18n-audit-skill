@@ -1,0 +1,36 @@
+{
+  "title": "Paramètres",
+  "tabs": {
+    "general": "Général",
+    "security": "Sécurité",
+    "notifications": "Notifications",
+    "billing": "Facturation et abonnements",
+    "team": "Membres de l'équipe"
+  },
+  "general": {
+    "language": "Langue d'affichage",
+    "timezone": "Fuseau horaire",
+    "theme": "Thème de couleurs",
+    "themeLight": "Clair",
+    "themeDark": "Sombre",
+    "themeSystem": "Défaut du système"
+  },
+  "notifications": {
+    "email": "Notifications par e-mail",
+    "push": "Notifications push",
+    "marketing": "Mises à jour et annonces du produit",
+    "security": "Alertes de sécurité"
+  },
+  "billing": {
+    "currentPlan": "Abonnement actuel",
+    "upgrade": "Changer d'abonnement",
+    "cancelPlan": "Annuler l'abonnement",
+    "invoices": "Historique des factures",
+    "paymentMethod": "Moyen de paiement"
+  },
+  "dangerZone": {
+    "title": "Zone dangereuse",
+    "deleteAccount": "Supprimer le compte",
+    "deleteWarning": "Cette action est irréversible. Toutes vos données seront définitivement supprimées."
+  }
+}
